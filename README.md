@@ -6,7 +6,7 @@
 ---
 
 <p align="center">
-  <img src="https://genitori2d.it/assets/copertina-libro.jpg" alt="Copertina del Libro - Genitori 2D" width="280"/>
+  <img src="./images/g2.png" alt="Copertina del Libro - Genitori in due dimensioni" width="280"/>
 </p>
 
 ---
