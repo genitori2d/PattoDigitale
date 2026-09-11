@@ -52,4 +52,13 @@ Se hai familiarità con Git, Markdown e Pull Request, leggi il nostro file **[CO
 
 ---
 
+## Come Compilare i Sorgenti (.md in .pdf)
+
+Se desideri modificare i testi o personalizzare lo stile grafico prima della stampa, tutti i contratti sono scritti in **Markdown** ed esportabili tramite **Pandoc**.
+
+Per compilare la versione PDF ad alta resa grafica (A4 monopagina):
+
+```bash
+pandoc nome-file.md -o nome-file.pdf --pdf-engine=xelatex
+
 *Promosso da [Genitori in 2 Dimensioni](https://genitori2d.it) — Educare i nativi digitali alle due dimensioni del sociale*
