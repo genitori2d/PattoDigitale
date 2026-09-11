@@ -1,20 +1,39 @@
 ---
 geometry: "margin=1.2cm"
-mainfont: Arial
-fontsize: 8pt
+mainfont: "Liberation Sans"
+fontsize: 10pt
+header-includes:
+  - |
+    \usepackage{fancyhdr}
+    \pagestyle{fancy}
+    \fancyhf{}
+    \fancyfoot[L]{https://github.com/genitori2d/PattoDigitale}
+    \fancyfoot[C]{Genitori in 2 Dimensioni}
+    \fancyfoot[R]{Pagina \thepage}
+    \renewcommand{\headrulewidth}{0pt}
+    \renewcommand{\footrulewidth}{0.4pt}
 ---
-## CONTRATTO DIGITALE BILATERALE
-**Fascia 11 - 14 Anni: Primo Dispositivo, Responsabilità e Cittadinanza Digitale**
+\begin{center} 
+\textbf{\Large CONTRATTO DIGITALE}
 
-**Genitori/Educatori:** ___________________________________
+\textit{\normalsize Fascia 11 - 14 Anni: Primo Dispositivo, Responsabilità e Cittadinanza Digitale}
+\end{center}
 
-**Ragazzo/a:** _____________________________________________
+\vspace{1.5cm}
+
+*Genitori/Educatori:* _________________________________________________________________
+
+\vspace{0.5cm}
+
+*Ragazzo/a:* _______________________________________________________________________
+
+---
 
 
-
-**PREMESSA ED ALLEANZA COMUNITARIA**  
+### PREMESSA ED ALLEANZA COMUNITARIA ### 
 Questo documento segna il passaggio all'uso del primo dispositivo personale. Riconosciamo che il mondo digitale offre grandi opportunità di studio e relazione, ma richiede maturità, limiti chiari e rispetto reciproco. L'alleanza tra genitori e figli serve a proteggere il benessere emotivo, la reputazione online e il tempo per la vita reale.
 
+\vspace{1cm}
 
 ### 1. IMPEGNI E OBBLIGHI DEI GENITORI (L'Esempio e la Presenza)
 **Esempio e Disconnessione:** Ci impegniamo a non usare lo smartphone nei momenti familiari, a tavola e durante le conversazioni. Silenziamo le notifiche non urgenti.
@@ -25,6 +44,8 @@ Questo documento segna il passaggio all'uso del primo dispositivo personale. Ric
 
 **Trasparenza sui Controlli:** Eventuali app di monitoraggio o filtri saranno discussi insieme e usati per la tua sicurezza, mai per spiare la tua sfera privata senza motivo.
 
+\vspace{1cm}
+
 ### 2. REGOLE PER IL RAGAZZO/A (Consapevolezza e Rispetto)
 **Custodia delle Password e Privacy:** Le password dei dispositivi e degli account sono condivise esclusivamente con i genitori. Non fornisco mai dati personali, scuola o indirizzo a sconosciuti online.
 
@@ -34,49 +55,35 @@ Questo documento segna il passaggio all'uso del primo dispositivo personale. Ric
 
 **Gentilezza e Rispetto (No Bullismo):** Non pubblico né condivido foto o video altrui senza permesso. Non partecipo a chat di gruppo dove si insultano o escludono coetanei.
 
+\vspace{1cm}
+
 ### 3. CONSEGUENZE RECIPROCHE IN CASO DI VIOLAZIONE
 **Se un genitore usa il telefono nei momenti vietati:** Il ragazzo/a ha il diritto di segnalarlo e il genitore deve riporre immediatamente lo smartphone nella scatola "No-Phone".
 
 **Se il ragazzo/a viola gli orari, le regole di sicurezza o nasconde app:** Il dispositivo verrà preso in custodia dai genitori per un periodo concordato (es. 48 ore).
 
+\vspace{1.5cm}
 
 ### FIRME E SOTTOSCRIZIONE
 
+\vspace{1.5cm}
 
 
-| **Firma Genitore**   |   **Firma Genitore** |
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-| **Firma Ragazzo/a:** | **Firma Educatori/Tutor:** |
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
+**Firma Genitore:**______________________________________________________________________________
+
+\vspace{1.5cm}
+
+**Firma Genitore / Tutore:**_______________________________________________________________________
+
+\vspace{5cm}
+
+**Firma Ragazzo/a:**_______________________________________________________________________
+____
+\vspace{1.5cm}
+
+**Firma Educatori/Tutor:**_______________________________________________________________________
+
+\vspace{8.5cm}
+
 ![Genitori in 2 Dimensioni](../images/g2.png){width=40mm align=top}
 *Tratto dal progetto e dal libro [Genitori in 2 dimensioni](https://genitori2d.it)*
