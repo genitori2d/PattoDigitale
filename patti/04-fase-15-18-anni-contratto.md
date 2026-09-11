@@ -23,6 +23,7 @@ header-includes:
 
 *Genitori/Educatori:* ___________________________________
 
+\vspace{0.5cm}
 
 *Giovane:* _____________________________________________
 
@@ -62,14 +63,24 @@ Questo documento è un patto di fiducia tra quasi-adulti. Riconosciamo che l'ado
 
 ### FIRME E SOTTOSCRIZIONE
 
+\vspace{1.5cm}
 
-**Genitore di (Nome Alunno/a):**  **Firma Genitore / Tutore:** 
 
-\vspace{10cm}
+**Firma Genitore:**______________________________________________________________________________
 
-**Rappresentante di Classe:**  **Docente / Referente (Opzionale):**  
+\vspace{1.5cm}
 
-\vspace{9.50cm}
+**Firma Genitore / Tutore:**_______________________________________________________________________
+
+\vspace{5cm}
+
+**Firma Giovane:**_______________________________________________________________________
+____
+\vspace{1.5cm}
+
+**Firma Educatori/Tutor:**_______________________________________________________________________
+
+\vspace{8.5cm}
 
 ![Genitori in 2 Dimensioni](../images/g2.png){width=40mm align=top}
 *Tratto dal progetto e dal libro [Genitori in 2 dimensioni](https://genitori2d.it)*

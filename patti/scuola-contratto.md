@@ -23,6 +23,8 @@ header-includes:
 
 *Scuola / Istituto:* ___________________________________
 
+\vspace{0.5cm}
+
 *Classe / Sezione:* _____________________________________________
 
 \vspace{0.5cm}
