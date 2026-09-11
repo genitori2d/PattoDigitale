@@ -27,8 +27,7 @@ header-includes:
 
 *Ragazzo/a:* _______________________________________________________________________
 
----
-
+\vspace{0.5cm}
 
 ### PREMESSA ED ALLEANZA COMUNITARIA ### 
 Questo documento segna il passaggio all'uso del primo dispositivo personale. Riconosciamo che il mondo digitale offre grandi opportunità di studio e relazione, ma richiede maturità, limiti chiari e rispetto reciproco. L'alleanza tra genitori e figli serve a proteggere il benessere emotivo, la reputazione online e il tempo per la vita reale.
